@@ -2,6 +2,7 @@
 
 Cornell University: https://admissions.cornell.edu/apply/first-year-applicants/college-and-school-admissions-requirements
 
+Duke University: https://admissions.duke.edu/apply/
 
 Rice University: https://ga.rice.edu/undergraduate-students/academic-policies-procedures/admission/#text
 
