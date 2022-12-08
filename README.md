@@ -2,6 +2,8 @@
 
 Brown University: https://admission.brown.edu/apply
 
+Carnegie Mellon University: https://www.cmu.edu/admission/admission/academic-requirements-college-level-work
+
 Cornell University: https://admissions.cornell.edu/apply/first-year-applicants/college-and-school-admissions-requirements
 
 Duke University: https://admissions.duke.edu/apply/
