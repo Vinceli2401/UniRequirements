@@ -10,4 +10,6 @@ Rice University: https://ga.rice.edu/undergraduate-students/academic-policies-pr
 
 **Univerisity of California: https://admission.universityofcalifornia.edu/admission-requirements/international-applicants/**
 
+University of Michigen: https://admissions.umich.edu/apply/first-year-applicants/requirements-deadlines
+
 University of Pennsylvania: https://admissions.upenn.edu/admissions-and-financial-aid/apply-for-admission/first-year-admission
